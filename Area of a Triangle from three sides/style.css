@@ -1,0 +1,34 @@
+html, body {
+    background-color: seashell;
+}
+
+p {
+    display: inline-block;
+    font-size: x-large;
+    margin: 10px;
+}
+
+button {
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 1%;
+    margin-left: 10%;
+    cursor: pointer;
+    font-size:large;
+}
+
+button:hover {
+    background: rgb(208, 208, 221);
+    box-shadow: 0 0px 20px 5px #aaf;
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+}
+
+.area {
+    margin: auto;
+    text-align: center;
+    border: 4px solid springgreen;
+}
